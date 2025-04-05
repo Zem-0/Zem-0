@@ -12,9 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Zem-0&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zem-0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zem-0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![Alt text](https://github.com/Zem-0/Zem-0/blob/main/Screenshot%202025-03-31%20212454.png)
+![](https://github.com/Zem-0/Zem-0/blob/main/api.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zem-0&icon=9&color=12)](https://visitcount.itsvg.in)
